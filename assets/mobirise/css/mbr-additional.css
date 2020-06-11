@@ -1250,6 +1250,31 @@ section.lazy-placeholder:after {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
+.cid-s1zaxC8IQO {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-s1zaxC8IQO .image-block {
+  margin: auto;
+}
+.cid-s1zaxC8IQO figcaption {
+  position: relative;
+}
+.cid-s1zaxC8IQO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s1zaxC8IQO .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s1zaxC8IQO DIV {
+  text-align: right;
+  color: #ffffff;
+}
 .cid-rWj4Wadsrr {
   padding-top: 60px;
   padding-bottom: 60px;
